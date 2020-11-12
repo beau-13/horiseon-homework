@@ -1,6 +1,6 @@
-# horiseon-homework
+# Horiseon Refact
 ---
-* title: Horiseon
+* title: Horiseon Refact
 * description: Online marketing tools and strategies
 * author: Beau Andrus
 * colors: light/dark blue and grey
@@ -10,24 +10,19 @@
 Download
 --------
 
-<<<<<<< HEAD
-### [Click here to download latest version]https://github.com/beau-13/horiseon-homework 
-
-Snapshots
-=======
 ### [Click here to download latest version](https://github.com/beau-13/horiseon-homework/archive/main.zip)
 
 #### Description of Repository
 
 *HTML Semantics*
 
-This file has been edited to provide a semantic view of HTML vs. a HTML with divs
+This file has been edited to provide a semantic view of HTML vs. a HTML with divs. This will make it a much easier website for future developers to add/amend any changes they may see fit. 
 
 ### SnapShots
 
-![lead-generation](https://user-images.githubusercontent.com/71921579/98515995-e19cd780-22a6-11eb-8a16-3eb43853e06b.png)
-![cost-management](https://user-images.githubusercontent.com/71921579/98516101-04c78700-22a7-11eb-9b82-3ede71f4bc2c.png)
+![Screen-shot1](https://user-images.githubusercontent.com/71921579/98914008-17d69300-2503-11eb-93fb-863d727f3aba.JPG)
+![Screen-shot2](https://user-images.githubusercontent.com/71921579/98914047-291f9f80-2503-11eb-845d-e85c78c7e2ce.JPG)
 
->>>>>>> 56f731aa1a17765f9ba1ea285c4b7faa4cd0787e
+
 
 
